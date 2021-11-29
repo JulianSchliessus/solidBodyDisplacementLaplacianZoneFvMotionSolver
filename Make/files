@@ -1,0 +1,4 @@
+solidBodyDisplacementLaplacianZoneFvMotionSolver.C
+solidBodyDisplacementLaplacianMultiZoneFvMotionSolver.C
+
+LIB = $(FOAM_USER_LIBBIN)/libfvMotionDispZoneSolvers
